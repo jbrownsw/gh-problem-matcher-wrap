@@ -9,6 +9,9 @@
 * gcc:
   [source](https://github.com/microsoft/vscode-cpptools/blob/a8285cbc0efb5b09c2d2229b0e0772dcb3b602df/Extension/package.json),
   [Copyright © Microsoft Corporation](https://github.com/microsoft/vscode-cpptools/blob/a8285cbc0efb5b09c2d2229b0e0772dcb3b602df/LICENSE.txt)
+* msvc:
+  [source](https://github.com/microsoft/vscode/blob/983bd69effc9141d7f2877e69ee686142c2406bc/src/vs/workbench/contrib/tasks/common/problemMatcher.ts)
+  [Copyright © Microsoft Corporation](https://github.com/microsoft/vscode/blob/983bd69effc9141d7f2877e69ee686142c2406bc/LICENSE.txt)
 * isort: [Copyright © 2020 Tomáš Janoušek](../LICENSE)
 * mypy: [Copyright © 2020 Tomáš Janoušek](../LICENSE)
 * pytest: [Copyright © 2020 Tomáš Janoušek](../LICENSE)
